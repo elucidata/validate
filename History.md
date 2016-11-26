@@ -1,3 +1,10 @@
+3.0.2 / 2015-09-24 (Elucidata's Fork)
+==================
+
+  * remove component support
+  * remove Makefile, using npm scripts instead
+  * remove confusing try/catch for requiring optional dependencies -- will better support browserify and webpack
+
 
 3.0.1 / 2015-09-24
 ==================
